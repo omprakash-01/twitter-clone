@@ -1,0 +1,41 @@
+
+.home{
+    display: flex;
+    justify-content: space-around;
+  }
+.twitterIcon{
+    color: var(--twitter-color);
+    font-size: 65px !important;
+}
+.buttons{
+    background-color: var(--twitter-color) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 40px !important;
+    margin-top: 10px !important;
+}
+.bt{
+    width: 50%;
+    display: flex;
+    justify-content: center !important;
+}
+#bn1
+{
+    background-color: var(--twitter-background) !important;
+    color: black !important;
+    border: .5px solid gray !important;
+}
+.wel{
+    display: flex;
+    padding: auto;
+    margin: auto;
+    color: var(--twitter-color);
+    justify-content: center;
+}
+.link{
+    width: 100%;
+    text-decoration: none;
+}

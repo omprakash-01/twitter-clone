@@ -1,0 +1,11 @@
+*<div>
+       <Home/>
+       <Feed username= {user}/>
+     {/*
+    <div className="app">
+      <Sidebar />
+      <Feed/>
+      <Widgets/>
+    </div> 
+  
+</div> */}

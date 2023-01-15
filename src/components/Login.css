@@ -1,0 +1,32 @@
+.Box{
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center;
+    margin: 0px auto;
+    width: 30%;
+
+
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+.Box__input{
+height: 6%;
+padding: 10px;
+margin: 10px;
+font-size: large;
+border-radius: 5px;
+
+}
+
+.link{
+    padding: 3px;
+    margin: 5px;
+    color: red;
+}
+.logbutton{
+    text-align: center;
+    font-size: large;
+}
